@@ -13,10 +13,6 @@
 
 - `make`
 
-**arba build + paleidimas**
-
-- `make run`
-
 ## Paleidimas
 
 - `make run`
