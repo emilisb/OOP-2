@@ -28,7 +28,7 @@
 
 ## Versijų istorija (changelog)
 
-### [v1.0](https://github.com/emilisb/OOP-2/releases/tag/v1.0) - (2019-03-25 😔😔😔)
+### [v1.0](https://github.com/emilisb/OOP-2/releases/tag/v1.0) - (2019-03-25 don't kill me please 😔😔😔)
 
 **Pridėta**
 
@@ -40,7 +40,9 @@
 
 **Programos spartos analizė**
 
-![](https://i.imgur.com/ly3j3bP.png)
+![](https://i.imgur.com/hEGcs2F.png)
+![](https://i.imgur.com/YhWcfeN.png)
+![](https://i.imgur.com/CS0U3lM.png)
 
 ### [v0.5](https://github.com/emilisb/OOP-2/releases/tag/v0.5) - (2019-03-12)
 
